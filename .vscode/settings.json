@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/531f73b7-5706-4b6a-b6d4-4a3e35b10efe/resourceGroups/move-mat-grp/providers/Microsoft.Web/sites/movematpro",
+    "appService.deploySubpath": "."
+}
